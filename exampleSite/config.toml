@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Anubis"
+title = "Konst_Vatruba"
 theme = "anubis"
 paginate = 3
 
@@ -8,11 +8,11 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "Dmitry Kolosov"
+name = "Konstantin Vatruba"
 
 [params]
-author = "Dmitry Kolosov"
-description = "Anubis is a simple minimalist theme for Hugo blog engine."
+author = "Konstantin Vatruba"
+description = "Личный сайт Константина Ватрубы на русском языке."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto"
@@ -32,12 +32,12 @@ utterancesIssue = "" # optional
 utterancesLabel = "" # optional
 
 [[params.social]]
-id = "docs"
-url = "https://gohugo.io/documentation/"
+id = "twitter"
+url = "https://https://twitter.com/Konst_Vatruba"
 
 [[params.social]]
 id = "github"
-url = "https://github.com/mitrichius/hugo-theme-anubis"
+url = "https://github.com/konstvatruba/"
 
 [menu]
 
