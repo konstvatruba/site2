@@ -1,7 +1,6 @@
 ---
 title: "Обо мне"
 description: "Konst_Vatruba – Обо мне"
-date: "2019-02-28"
 aliases: ["обо_мне","контакт"]
 
 ---
