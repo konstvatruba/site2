@@ -1,7 +1,11 @@
 ---
-title: 'Our Difference'
-button: 'About us'
+title: 'Обо мне'
+button: 'Обо мне'
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Привет и добро пожаловать в мой блог!
+
+Меня зовут Константин. Я уже много лет живу в городе Сантьяго, столице Чили и пишу на этом сайте все о своей жизни, путешествиях, политике и не только.
+
+Любые вопросы и связь со мной через твиттер [title](https://twitter.com/Konst_Vatruba)@Konst_Vatruba
