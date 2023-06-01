@@ -763,3 +763,15 @@ ul.language-select > li, ul.footer-menu > li {
     z-index: 1;
   }
 {{ end }}
+
+article:not(:last-of-type) {
+    border: none;
+}
+
+.common-header {
+    border: none;
+}
+
+.common-footer {
+    border: none;
+}
