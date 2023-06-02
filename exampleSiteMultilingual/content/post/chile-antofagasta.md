@@ -8,7 +8,7 @@ tags = [
 ]
 
 +++
-![https://github.com./konstvatruba/site2/images/anotofagasta/kvm_5843_48680565316_o.jpg](https://github.com/konstvatruba/site2/blob/main/images/anotofagasta/kvm_5843_48680565316_o.jpg?raw=true)
+![https://github.com/konstvatruba/site2/blob/main/images/anotofagasta/kvm_5851_48680568776_o.jpg](https://github.com/konstvatruba/site2/blob/main/images/anotofagasta/kvm_5851_48680568776_o.jpg?raw=true)
 
 Антофагаста – это один из богатейших городов Америк. ВВП на душу населения тут составляет более 64 тысяч долларов – как в ОАЭ или Норвегии. 
 
