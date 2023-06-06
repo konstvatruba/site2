@@ -1,5 +1,5 @@
 +++
-title = "Антофагаста"
+title = "Вальпараисо"
 date = "2015-01-08"
 description = "Lorem Ipsum Dolor Si Amet"
 tags = [
